@@ -1,4 +1,3 @@
-   Calculator Project Presentation
 
 Calculator Project
 ==================
