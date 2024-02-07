@@ -1,5 +1,4 @@
-
-Calculator Project
+Calculator
 ==================
 
 Your All-in-One Solution for Quick Calculations
